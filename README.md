@@ -10,3 +10,8 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+<div>
+    <p>citrus.csv (dataset)</p>
+    <p>citrus_processing.ipynb (file uji coba dataset dengan menggunakan knn)</p>
+    <p>preprocessing.ipynb (file tugas assignment 2)</p>
+</div>
