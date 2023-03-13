@@ -11,6 +11,9 @@
   </a>
 </div>
 <div>
+    <p>
+</div>
+<div>
     <p>citrus.csv (dataset)</p>
     <p>citrus_processing.ipynb (file uji coba dataset dengan menggunakan knn)</p>
     <p>preprocessing.ipynb (file tugas assignment 2)</p>
