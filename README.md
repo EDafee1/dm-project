@@ -1,3 +1,3 @@
-# dm-project
-citrus_processing = uji coba menggunakan data citrus dengan metode KNN
-preprocessing.ipynb = tugas assignment 2
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
