@@ -10,11 +10,16 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<div>
-    <p>
+<div id="badges2" align="center">
+  <a href="https://komarev.com/ghpvc/?username=EDafee1">
+    <img src="https://komarev.com/ghpvc/?username=EDafee1&style=flat-square&color=blue" alt=""/>
+    <h1>
+      Hello there
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
+    <h3>
+      Here is my college repository homework for Data Mining Subject.
+    </h3>
+  </a>
 </div>
-<div>
-    <p>citrus.csv (dataset)</p>
-    <p>citrus_processing.ipynb (file uji coba dataset dengan menggunakan knn)</p>
-    <p>preprocessing.ipynb (file tugas assignment 2)</p>
-</div>
+
